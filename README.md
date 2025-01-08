@@ -1,3 +1,24 @@
+![녹음 2025-01-08 180922 (1)](https://github.com/user-attachments/assets/87b06ae0-5c37-49da-bd18-9da3df09f5f9)
+
+![image](https://github.com/user-attachments/assets/a36c6945-1555-421a-bcdf-92097a99e7bb)
+
+
+### LG CNS AM Inspire Camp | 리액트 학습주차
+
+팀원들끼리 각자 주제를 선정하여 REST API를 사용하는 컴포넌트를 개발하여 병합할 것
+
+랜덤으로 강아지 사진을 생성하는 간단한 컴포넌트를 만들었습니다.
+
+
+#### 참고 오픈 API
+
+https://www.postman.com/cs-demo/public-rest-apis/request/ra0pm82/dog-breeds
+
+https://dog.ceo/dog-api/documentation/
+
+<details>
+<summary>init</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +89,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+</details>

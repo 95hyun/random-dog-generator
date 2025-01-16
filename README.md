@@ -3,9 +3,9 @@
 ![image](https://github.com/user-attachments/assets/a36c6945-1555-421a-bcdf-92097a99e7bb)
 
 
-### LG CNS AM Inspire Camp | 리액트 학습주차
+### LG CNS AM Inspire Camp | 리액트 학습주차 미니프로젝트
 
-팀원들끼리 각자 주제를 선정하여 REST API를 사용하는 컴포넌트를 개발하여 병합할 것
+조건 : 팀원들끼리 각자 주제를 선정하여 REST API를 사용하는 컴포넌트를 개발하여 병합할 것
 
 랜덤으로 강아지 사진을 생성하는 간단한 컴포넌트를 만들었습니다.
 
